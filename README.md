@@ -88,12 +88,4 @@ The CNN model consists of the following layers:
 - Implement cross-validation for better model evaluation.
 - Include Grad-CAM visualization to interpret model predictions.
 
-## License
-
-This project is open-source and available under the MIT License.
-
-## Acknowledgments
-
-- TensorFlow and Keras documentation.
-- COVID-19 datasets for image classification.
 
