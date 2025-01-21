@@ -1,4 +1,4 @@
-# Covid19_dectection-_on_X_ray_images
+# Covid-19 dectection on Chest X-ray images
 
 
 
