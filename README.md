@@ -8,7 +8,6 @@ This project uses a Convolutional Neural Network (CNN) to classify COVID-19 imag
 
 - **train/**: Contains training images organized into subfolders for each class.
 - **test/**: Contains testing images organized into subfolders for each class.
-- **covid-model.h5**: Saved trained model for future inference.
 
 ## Requirements
 
